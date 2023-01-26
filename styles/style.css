@@ -1,0 +1,631 @@
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    color: #000;
+    font-size: 1.15vw;
+    font-weight: 500;
+    font-family: Roboto10,sans-serif;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+    color: #000;
+    font-size: 1.15vw;
+    font-weight: 500;
+    font-family: Roboto10,sans-serif;
+}
+
+body{
+    width: 100%;
+    max-width: 100%;
+    top: 0;
+    left: 0;
+    float: left;
+    position: relative;
+    display: inline-block;
+    background: #ececec;
+    font-family: Roboto10,sans-serif;
+}
+
+
+
+
+
+.contenedor-principal-1{
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-0%,-0%);
+    background: rgba(217, 217, 217, 0);
+}
+
+.contenedor-principal-1 .cint-principal-1-deco{
+    
+}
+
+.contenedor-principal-1 .cint-principal-1-informacion{
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-0%,-0%);
+    background: rgba(39, 39, 39, 0);
+}
+
+
+
+
+
+
+
+
+
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-slide{
+    
+}
+
+
+
+
+
+
+
+
+
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios{
+    width: 100%;
+    height: auto;
+    top: 0%;
+    left: 50%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-50%,-0%);
+    background: rgba(39, 39, 39, 0);
+}
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-deco{
+    
+}
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion{
+    width: 100%;
+    height: auto;
+    top: 0%;
+    left: 50%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-50%,-0%);
+    background: rgba(39, 39, 39, 0);
+}
+
+
+
+
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-poster{
+    width: 100%;
+    height: 25vw;
+    top: 0%;
+    left: 0%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-0%,-0%);
+    background: rgba(255, 255, 255, 0);
+}
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-poster .cint-poster-deco{
+    
+}
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-poster .cint-poster-informacion{
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-0%,-0%);
+    background: rgba(255, 255, 255, 0);
+}
+
+
+
+
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-poster .cint-poster-informacion .contenedor-seccion-imagen{
+    width: 50%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-0%,-0%);
+    background: rgba(255, 255, 255, 0);
+}
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-poster .cint-poster-informacion .contenedor-seccion-imagen .cint-seccion-imagen{
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    transform: translate(-0%,-0%);
+    background: rgba(255, 255, 255, 0);
+    transition: 1s;
+}
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-poster .cint-poster-informacion .contenedor-seccion-imagen .cint-seccion-imagen img{
+    width: 102%;
+    height: 102%;
+    top: 50%;
+    left: 50%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    transform: translate(-50%,-50%);
+    background: rgb(255, 255, 255);
+    object-fit: cover;
+    object-position: center center;
+}
+
+
+
+
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-poster .cint-poster-informacion .contenedor-seccion-texto{
+    width: 50%;
+    height: 100%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    background: rgba(255, 255, 255, 0);
+}
+
+
+
+
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-poster .cint-poster-informacion .contenedor-seccion-texto .cint-seccion-texto-deco{
+    width: 100%;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    float: left;
+    overflow: hidden;
+    position: absolute;
+    display: inline-block;
+    transform: translate(-50%,-50%);
+    z-index: -1;
+}
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-poster .cint-poster-informacion .contenedor-seccion-texto .cint-seccion-texto-deco .deco-1{
+    width: 70%;
+    height: 50%;
+    top: 50%;
+    left: 100%;
+    float: left;
+    overflow: hidden;
+    position: absolute;
+    display: inline-block;
+    transform: translate(-100%,-50%);
+    background: linear-gradient(90deg,rgba(247, 247, 247, 0),rgb(247, 247, 247),rgb(247, 247, 247));
+    transition: 1s;
+}
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-poster:hover > .cint-poster-informacion .contenedor-seccion-texto .cint-seccion-texto-deco .deco-1{
+    width: 70%;
+    height: 50%;
+    top: 50%;
+    left: 100%;
+    float: left;
+    overflow: hidden;
+    position: absolute;
+    display: inline-block;
+    transform: translate(-100%,-50%);
+    background: linear-gradient(90deg,rgba(247, 247, 247, 0),rgb(247, 247, 247),rgb(247, 247, 247));
+    animation: crecer-encoger 1s ease-in-out infinite alternate;
+    transition: 1s;
+}
+
+@keyframes crecer-encoger{
+    0%{
+        width: 70%;
+    }
+    100%{
+        width: 20%;
+    }
+}
+
+
+
+
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-poster .cint-poster-informacion .contenedor-seccion-texto .cint-seccion-texto-informacion{
+    width: 100%;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    float: left;
+    overflow: hidden;
+    position: absolute;
+    display: inline-block;
+    transform: translate(-50%,-50%);
+}
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-poster .cint-poster-informacion .contenedor-seccion-texto .cint-seccion-texto-informacion .cint-seccion-texto{
+    width: 100%;
+    height: 50%;
+    top: 50%;
+    left: 100%;
+    float: left;
+    overflow: hidden;
+    position: absolute;
+    display: inline-block;
+    transform: translate(-100%,-50%);
+    background: rgba(255, 255, 255, 0);
+}
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-poster .cint-poster-informacion .contenedor-seccion-texto .cint-seccion-texto-informacion .cint-seccion-texto p{
+    width: auto;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-50%,-50%);
+    background: rgba(39, 39, 39, 0);
+    color: rgba(64, 64, 64, 1);
+    font-family: Roboto11;
+    text-align: justify;
+    font-size: 4vw;
+}
+
+
+
+
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-targeta{
+    width: 100%;
+    height: auto;
+    top: 0%;
+    left: 50%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-50%,-0%);
+    background: rgba(39, 39, 39, 0);
+}
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-targeta .cint-targeta-deco{
+    
+}
+
+.contenedor-principal-1 .cint-principal-1-informacion .contenedor-servicios .cint-contenedor-servicios-informacion .contenedor-targeta .cint-targeta-informacion{
+    width: 100%;
+    height: auto;
+    top: 0%;
+    left: 50%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-50%,-0%);
+    background: rgba(39, 39, 39, 0);
+}
+
+.targeta-servicio{
+    width: 100%;
+    height: 20vw;
+    top: 0%;
+    left: 50%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-50%,-0%);
+    background: rgba(255, 255, 255, 0);
+    margin-top: 2.5vw;
+    margin-bottom: 2.5vw;
+}
+
+.targeta-servicio .cint-ts-deco{
+    
+}
+
+.targeta-servicio .cint-ts-informacion{
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 50%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-50%,-0%);
+    background: rgba(39, 39, 39, 0);
+}
+
+
+
+
+
+.targeta-servicio .cint-ts-informacion .contenedor-imagen{
+    width: 35%;
+    height: 100%;
+    top: 50%;
+    left: 0%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-0%,-50%);
+    background: rgba(39, 39, 39, 0);
+}
+
+.targeta-servicio:nth-child(2n+2) .cint-ts-informacion .contenedor-imagen{
+    width: 35%;
+    height: 100%;
+    top: 50%;
+    left: 0%;
+    float: right;
+    position: relative;
+    display: inline-block;
+    transform: translate(-0%,-50%);
+    background: rgba(39, 39, 39, 0);
+}
+
+.targeta-servicio .cint-ts-informacion .contenedor-imagen .cint-imagen-deco{
+    
+}
+
+.targeta-servicio .cint-ts-informacion .contenedor-imagen .cint-imagen-informacion{
+    width: 100%;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-50%,-50%);
+    background: rgba(39, 39, 39, 0);
+}
+
+.targeta-servicio .cint-ts-informacion .contenedor-imagen .cint-imagen-informacion .imagen{
+    width: 15vw;
+    height: 15vw;
+    top: 50%;
+    left: 70%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    transform: translate(-70%,-50%);
+    background: rgba(39, 39, 39, 0);
+    box-shadow: 0 0 0vw rgba(0, 0, 0, 0);
+    border-radius: 50%;
+    border: 0.6vw solid #fff;
+}
+
+
+.targeta-servicio:nth-child(2n+2) .cint-ts-informacion .contenedor-imagen .cint-imagen-informacion .imagen{
+    left: 30%;
+    transform: translate(-30%,-50%);
+}
+
+.targeta-servicio .cint-ts-informacion .contenedor-imagen .cint-imagen-informacion .imagen img{
+    width: 102%;
+    height: 102%;
+    top: 50%;
+    left: 50%;
+    float: left;
+    position: absolute;
+    display: inline-block;
+    transform: translate(-50%,-50%) scale(1.1);
+    background: rgb(255, 255, 255);
+    object-fit: cover;
+}
+
+
+
+
+
+.targeta-servicio .cint-ts-informacion .contenedor-texto{
+    width: 65%;
+    height: 100%;
+    top: 50%;
+    left: 0%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-0%,-50%);
+    background: rgba(39, 39, 39, 0);
+}
+
+.targeta-servicio .cint-ts-informacion .contenedor-texto .cint-texto-deco{
+    
+}
+
+.targeta-servicio .cint-ts-informacion .contenedor-texto .cint-texto-informacion{
+    width: 100%;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-50%,-50%);
+    background: rgba(39, 39, 39, 0);
+}
+
+.targeta-servicio .cint-ts-informacion .contenedor-texto .cint-texto-informacion .texto{
+    width: 100%;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-50%,-50%);
+    background: rgba(39, 39, 39, 0);
+}
+
+.targeta-servicio .cint-ts-informacion .contenedor-texto .cint-texto-informacion .texto .texto-tema{
+    width: 100%;
+    height: 50%;
+    top: 0%;
+    left: 50%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    transform: translate(-50%,-0%);
+    background: rgba(39, 39, 39, 0);
+}
+
+.targeta-servicio .cint-ts-informacion .contenedor-texto .cint-texto-informacion .texto .texto-tema p{
+    width: auto;
+    height: auto;
+    top: 50%;
+    left: 0%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-0%,-50%);
+    background: rgba(39, 39, 39, 0);
+    color: rgba(64, 64, 64, 1);
+    font-family: berkshire1;
+    text-align: justify;
+    font-size: 3vw;
+}
+
+.targeta-servicio:nth-child(2n+2) .cint-ts-informacion .contenedor-texto .cint-texto-informacion .texto .texto-tema p{
+    width: auto;
+    height: auto;
+    top: 50%;
+    left: 0%;
+    float: right;
+    position: relative;
+    display: inline-block;
+    transform: translate(-0%,-50%);
+    background: rgba(39, 39, 39, 0);
+    color: rgba(64, 64, 64, 1);
+    font-family: berkshire1;
+    text-align: justify;
+    font-size: 3vw;
+}
+
+.targeta-servicio .cint-ts-informacion .contenedor-texto .cint-texto-informacion .texto .texto-informacion{
+    width: 78%;
+    height: 50%;
+    top: 0%;
+    left: 0%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    transform: translate(-0%,-0%);
+    background: rgba(39, 39, 39, 0);
+}
+
+.targeta-servicio:nth-child(2n+2) .cint-ts-informacion .contenedor-texto .cint-texto-informacion .texto .texto-informacion{
+    width: 78%;
+    height: 50%;
+    top: 0%;
+    left: 0%;
+    float: right;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    transform: translate(-0%,-0%);
+    background: rgba(39, 39, 39, 0);
+}
+
+.targeta-servicio .cint-ts-informacion .contenedor-texto .cint-texto-informacion .texto .texto-informacion p{
+    width: auto;
+    height: auto;
+    top: 0%;
+    left: 0%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    transform: translate(-0%,-0%);
+    background: rgba(39, 39, 39, 0);
+    color: rgba(95, 95, 95, 1);
+    font-family: nixieone1;
+    text-align: justify;
+    font-size: 1.5vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
